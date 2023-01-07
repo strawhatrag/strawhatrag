@@ -17,7 +17,7 @@
 ---
 **Programming since 2017**~ <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
 
-- 🔭 Completing my **Engineering Degree at Pondy University**.
+- 🔭 Completed my **Engineering Degree in 2020**.
 
 - 🔥 Passionate about DevOps.
 
@@ -31,15 +31,6 @@
   
   
 </p>
-
-
-
-<!--
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=strawhatrag&theme=dark&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
--->
-
-
 
 ---
 ### 💼 My repos:
