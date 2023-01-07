@@ -21,7 +21,7 @@
 
 - 🔥 Passionate about DevOps.
 
-### [Connect with me 💬](https://www.linkedin.com/in/sreerag-u/) 
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sreerag-u)
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
