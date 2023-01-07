@@ -1,3 +1,51 @@
-## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29">, I'm [srirag!](https://www.linkedin.com/in/sreerag-u/) 
+
+
+
+
+<div id="header" align="center">
+<img alt="General GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=strawhatrag&show_icons=true&theme=merko&hide=contribs" align="right" />
+  
+  <img src="https://media.giphy.com/media/vzO0Vc8b2VBLi/giphy.gif" width="220"/>
+</div>
+
+
+<div id="counter" align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=strawhatrag.strawhatrag" alt=""/>
+</div>
+
+
+---
+**Programming since 2017**~ <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
+
+- 🔭 Completing my **Engineering Degree at Pondy University**.
+
+- 🔥 Passionate about DevOps.
+
 ### [Connect with me 💬](https://www.linkedin.com/in/sreerag-u/) 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=strawhatrag.strawhatrag)
+---
+
+### :hammer_and_wrench: Languages and Tools :
+<p align="center">
+
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=strawhatrag&layout=compact&theme=vision-friendly-dark&langs_count=4)](https://github.com/anuraghazra/github-readme-stats) 
+  
+  
+</p>
+
+
+
+<!--
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=strawhatrag&theme=dark&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+-->
+
+
+
+---
+### 💼 My repos:
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=strawhatrag&repo=website_automation&theme=synthwave)](https://github.com/strawhatrag/website_automation)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=strawhatrag&repo=RestAssured-Maven&theme=synthwave)](https://github.com/strawhatrag/RestAssured-Maven)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=strawhatrag&repo=testng_webautomation&theme=synthwave)](https://github.com/strawhatrag/testng_webautomation)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=strawhatrag&repo=databaseProject&theme=synthwave)](https://github.com/strawhatrag/databaseProject)
+
+
